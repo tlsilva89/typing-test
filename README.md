@@ -89,7 +89,7 @@ http://localhost:5173
 
 ## 📄 Licença
 
-MIT License - Veja o arquivo [LICENSE](LICENSE) para detalhes.
+MIT License - Veja o arquivo [LICENSE](https://opensource.org/license/mit) para detalhes.
 
 ---
 
